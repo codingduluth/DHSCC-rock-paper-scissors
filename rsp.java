@@ -2,7 +2,7 @@
 
 //Make sure to add these variables to your code: 
 
-
+//NOTE: THESE WILL ALREADY BE ADDED TO YOUR CODE IN CODEHS
 // import java.util.Random;
 // import java.util.Scanner;
 
@@ -14,7 +14,7 @@
 
 //Get the computer choice by using: choices[random.nextInt(choices.length)]
 
-//Compare strings with VARIABLE_NAME.equals("WHAT IT SHOULD EQUAL TO") 
+//Compare strings with VARIABLE_NAME.equals(WHAT IT SHOULD EQUAL TO) 
 //Comparing these strings will give you a boolean that you can use in the if statements to check if the students won or did not
 
 import java.util.Scanner;

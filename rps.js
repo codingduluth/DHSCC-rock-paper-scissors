@@ -4,7 +4,8 @@
 // const choices = ['rock', 'paper', 'scissors'];
 
 // Ask for the user input (Assign to a variable)
-// Choose a random input for the computer (Assign to a variable)
+// Choose a random input for the computer (Assign to a variable):
+// let computerChoice = choices[Math.floor(Math.random() * choices.length)];
 
 // Print both choices
 // Check if they won by using if statements
